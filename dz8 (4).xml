@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <name>GTA 5</name>
+    <release> 2013</release>
+    <developer> Rockstar Games</developer>
+    <platform> PC</platform>
+  </row>
+  <row>
+    <name>Far Cry 6</name>
+    <release> 2021</release>
+    <developer> Ubisoft</developer>
+    <platform> PC </platform>
+  </row>
+  <row>
+    <name>Agar.io</name>
+    <release> 2014</release>
+    <developer> Matheus Valadares</developer>
+    <platform> Multi</platform>
+  </row>
+  <row>
+    <name>Browl Stars</name>
+    <release> 2018</release>
+    <developer> Supersell</developer>
+    <platform> Mobile</platform>
+  </row>
+  <row>
+    <name>Stalker</name>
+    <release> 2007</release>
+    <developer> GSC Game World</developer>
+    <platform> PC</platform>
+  </row>
+</root>

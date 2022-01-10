@@ -1,0 +1,32 @@
+[
+ {
+   "name": "GTA 5",
+   "release": 2013,
+   "developer": " Rockstar Games",
+   "platform": " PC"
+ },
+ {
+   "name": "Far Cry 6",
+   "release": 2021,
+   "developer": " Ubisoft",
+   "platform": " PC "
+ },
+ {
+   "name": "Agar.io",
+   "release": 2014,
+   "developer": " Matheus Valadares",
+   "platform": " Multi"
+ },
+ {
+   "name": "Browl Stars",
+   "release": 2018,
+   "developer": " Supersell",
+   "platform": " Mobile"
+ },
+ {
+   "name": "Stalker",
+   "release": 2007,
+   "developer": " GSC Game World",
+   "platform": " PC"
+ }
+]
